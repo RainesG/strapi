@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_headers",
+  "info": {
+    "displayName": "header",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "headerList": {
+      "type": "json"
+    }
+  }
+}
